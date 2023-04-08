@@ -1,11 +1,11 @@
 ---
 title: Whonix Package Index
-description: A searchable website with information and metadata about Whonix packages 
+description: A searchable website with information and metadata about Whonix packages
 theme: just-the-docs
 
 url: https://packages.whonix.org
 
 logo: "./assets/whonix-logo-text.svg"
-favicon_ico: "./assets/whonix-logo-icon.svg"
+favicon_ico: "./assets/whonix-logo-icon.ico"
 
 color_scheme: whonix
