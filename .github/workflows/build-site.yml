@@ -1,0 +1,27 @@
+---
+name: Build Static Site
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Build
+        uses: jerryjvl/jekyll-build-action@v1
+
+      - name: Commit to static repo
+        run: |
+          git config --global user.email "ci-dummy-commit@whonix.org"
+          git config --global user.name "ci-dummy"
+          git config --global credential.helper cache
+          git clone https://${{secrets.ACCESS_TOKEN}}@github.com/whonix/whonix-packages-static
+          rm -rf ./whonix-packages-static/*
+          cp -r ./_site/assets/ ./whonix-packages-static/
+          cp -r ./_site/docs/ ./whonix-packages-static/
+          cp -r ./_site/index.html ./whonix-packages-static/
+          cd ./whonix-packages-static
+          git add .
+          git commit -m "$(date)"
+          git push
