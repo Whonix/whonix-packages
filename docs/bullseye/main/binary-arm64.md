@@ -6130,7 +6130,7 @@ grand_parent: bullseye
 
 **Package:** usability-misc
 
-**Version:** 3:12.8-1
+**Version:** 3:12.9-1
 
 **Architecture:**  all
 
@@ -6152,15 +6152,15 @@ grand_parent: bullseye
 
 **Section:** misc
 
-**Filename:**  pool/main/u/usability-misc/usability-misc_12.8-1_all.deb
+**Filename:**  pool/main/u/usability-misc/usability-misc_12.9-1_all.deb
 
 **Size:**  339
 
-**Sha256:**  4afef338a0cacab225879fb0d1bd92cc28e5f73e25f8084edad3914aa6fe6743
+**Sha256:**  ccd93b6361b66a6dada7879753e1fea43964ed70bf9f71d230199030c98b976c
 
-**Sha1:**  2400be47d822def0067e4b606bd72cc720b50a7f
+**Sha1:**  4d1684e32f61473f3b66edc0c343f260673826c2
 
-**Md5sum:**  9a5c250430966bb407e5e2d8da3adb0d
+**Md5sum:**  eb7d2e81787bcd8a8ab3fd200c5c322f
 
 **Description:** Misc usability improvements
  Creates user "user" if it does not already exist.
