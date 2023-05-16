@@ -5780,13 +5780,13 @@ grand_parent: bullseye
 
 **Package:** tb-updater
 
-**Version:** 3:25.4-1
+**Version:** 3:25.5-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  297
+**Installed_size:**  298
 
 **Recommends:**  tb-starter, icon-pack-dist, helper-scripts
 
@@ -5802,15 +5802,15 @@ grand_parent: bullseye
 
 **Section:** misc
 
-**Filename:**  pool/main/t/tb-updater/tb-updater_25.4-1_all.deb
+**Filename:**  pool/main/t/tb-updater/tb-updater_25.5-1_all.deb
 
-**Size:**  297
+**Size:**  298
 
-**Sha256:**  08dfc72c73392149fe8c7ff9783f99c6393d4a8d3dccb4714792c8c16f74e9ff
+**Sha256:**  d2f25863b0038d1087966f472b0de5b6ad64d711be0594fa1cea2e2a04459fbe
 
-**Sha1:**  08f07c1f0e8b5a0cdc75b8f41e7d5d39e7fc371a
+**Sha1:**  0b03b3cc246e45d30a86c7bb0dcf13397ccea6e3
 
-**Md5sum:**  7b7118e4398d31423ec049de55d98ea8
+**Md5sum:**  efbd3743cdffaafb61657b5686a273dd
 
 **Description:** Tor Browser Downloader by Whonix developers
  Automates download and verification of Tor Browser from The Tor Project's
@@ -6130,13 +6130,13 @@ grand_parent: bullseye
 
 **Package:** usability-misc
 
-**Version:** 3:12.9-1
+**Version:** 3:13.5-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  339
+**Installed_size:**  349
 
 **Recommends:**  
 
@@ -6152,15 +6152,15 @@ grand_parent: bullseye
 
 **Section:** misc
 
-**Filename:**  pool/main/u/usability-misc/usability-misc_12.9-1_all.deb
+**Filename:**  pool/main/u/usability-misc/usability-misc_13.5-1_all.deb
 
-**Size:**  339
+**Size:**  349
 
-**Sha256:**  ccd93b6361b66a6dada7879753e1fea43964ed70bf9f71d230199030c98b976c
+**Sha256:**  88fe361371b7c95766581bea91a03da107d6a5a85de8e46ae2cb75fac22f15a3
 
-**Sha1:**  4d1684e32f61473f3b66edc0c343f260673826c2
+**Sha1:**  6d74cd46b52dcaaa9b40f0211f84d5a952806908
 
-**Md5sum:**  eb7d2e81787bcd8a8ab3fd200c5c322f
+**Md5sum:**  4cc6cdc50b57b88a6afe7d697bcbfe85
 
 **Description:** Misc usability improvements
  Creates user "user" if it does not already exist.

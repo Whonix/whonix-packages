@@ -27,13 +27,13 @@ grand_parent: bullseye-testers
 
 **Package:** dummy-nonfree
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -49,15 +49,15 @@ grand_parent: bullseye-testers
 
 **Section:** non-free/metapackages
 
-**Filename:**  pool/non-free/k/kicksecure-meta-packages/dummy-nonfree_25.8-1_all.deb
+**Filename:**  pool/non-free/k/kicksecure-meta-packages/dummy-nonfree_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  0d80ea558cf97227e0630147826a80f403b160ce301384c6700ea13b7ff9dd6e
+**Sha256:**  68b8c293292dc8019eccaadfeefc39448851385124cdc5367a1fed227b90e8b7
 
-**Sha1:**  82fc02f9af2000a320d7792225659177065ce3bc
+**Sha1:**  183d5f1081160e99d960120d7c055aca6816d9e9
 
-**Md5sum:**  64e132df73b6416566ecc7c368458038
+**Md5sum:**  b912f513036d877759c1638dd4cb21a7
 
 **Description:** dummy nonfree package
  A metapackage, without contents to populate the nonfree repository.
@@ -75,13 +75,13 @@ grand_parent: bullseye-testers
 
 **Package:** firmware-nonfreedom
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -97,15 +97,15 @@ grand_parent: bullseye-testers
 
 **Section:** non-free/metapackages
 
-**Filename:**  pool/non-free/k/kicksecure-meta-packages/firmware-nonfreedom_25.8-1_all.deb
+**Filename:**  pool/non-free/k/kicksecure-meta-packages/firmware-nonfreedom_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  6cdf32d20881f909d50f7fc9a2587b893b7a66395d5299eb8db504851b722105
+**Sha256:**  435fd8275c8cc902141f19351141513ebf1dbc3254009d63ec533c08caf17041
 
-**Sha1:**  96be8055e163d148f7c0f66b915643f543e92575
+**Sha1:**  2cc09a93b0bd550be8dd6196f870f6e6b0c2a101
 
-**Md5sum:**  1d0b49b69ec7ca315e091c820914aef2
+**Md5sum:**  d4c8b0884399a7acacc52960aaf8ed18
 
 **Description:** Recommended packages for hosts with nonfreedom hardware design
  A metapackage, which includes nonfree firmware useful for hosts with

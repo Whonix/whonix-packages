@@ -1203,13 +1203,13 @@ grand_parent: bullseye-testers
 
 **Package:** apparmor-profiles-kicksecure
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -1225,15 +1225,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/apparmor-profiles-kicksecure_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/apparmor-profiles-kicksecure_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  e4f90ddf5abbcd2bae6af983af8cc9c7045d77659a8c70e63d84117bafaec3c7
+**Sha256:**  bec99fcaef9338c1b1ba5ce6fbdbd4f6c1756f34b6955372415fbae06456d89c
 
-**Sha1:**  1920d3bc5748d7fc48c39a0af686ed58913ea149
+**Sha1:**  216b747008794894a1102c153c402986b8656aee
 
-**Md5sum:**  ce18782bccef0fef136e6be6eee05042
+**Md5sum:**  a6090a23482e8651e1480f5dd1400ca1
 
 **Description:** AppArmor profiles developed by the Kicksecure Team
  A metapackage, which installs apparmor profiles packages from Debian:
@@ -1740,7 +1740,7 @@ grand_parent: bullseye-testers
 
 **Package:** developer-meta-files
 
-**Version:** 3:23.2-1
+**Version:** 3:23.3-1
 
 **Architecture:**  all
 
@@ -1762,15 +1762,15 @@ grand_parent: bullseye-testers
 
 **Section:** misc
 
-**Filename:**  pool/main/d/developer-meta-files/developer-meta-files_23.2-1_all.deb
+**Filename:**  pool/main/d/developer-meta-files/developer-meta-files_23.3-1_all.deb
 
 **Size:**  226
 
-**Sha256:**  04348e204671efdea7cd32f88ce533ff7d445868eb18ef6f92669d70c3e42e86
+**Sha256:**  2c5222e0fc0cb990df011cf5dd9844b184e13ce9b3e0c8284a23131b1bdf61ac
 
-**Sha1:**  3c265ad9a37779808d3ec0d8ba595749531e57b2
+**Sha1:**  7043f98547e7479c0777654601b889525b10f6b1
 
-**Md5sum:**  3022d6b5bf80c0f3a588485adc01b84d
+**Md5sum:**  f8a240f817a1003a532971d600e9c871
 
 **Description:** Linux Distributions Maintenance Helper Scripts
  Todo
@@ -1844,13 +1844,13 @@ grand_parent: bullseye-testers
 
 **Package:** dummy-dependency
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -1866,15 +1866,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/dummy-dependency_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/dummy-dependency_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  c9c6fe38f91ab6208b62a397a21b22c7db9eaccac164b43c577dd4d5d289a612
+**Sha256:**  1ef8ad907d255c0da30bc6a12969087f95928b5cd735978dcb3ac1483302bc81
 
-**Sha1:**  13c57a2ae8d5c0ed32658dc288ed1bef77611f64
+**Sha1:**  eae17e8567907bc2c6f3d400c75e669824cd34a2
 
-**Md5sum:**  be25a0290ece778b755ec05e7da2b8b0
+**Md5sum:**  e345bf79c7453e8f3ba963c423d9e159
 
 **Description:** dummy package to satisfy architecture specific dependencies
  A metapackage, which satisfies the dependency on:
@@ -1897,13 +1897,13 @@ grand_parent: bullseye-testers
 
 **Package:** dummy-dependency-apparmor-profiles-kicksecure
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -1919,15 +1919,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/dummy-dependency-apparmor-profiles-kicksecure_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/dummy-dependency-apparmor-profiles-kicksecure_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  b201f5ddecb21532ebeb0d2788f4196cc16de926b56c6a7c05440ac7c2b5ebdc
+**Sha256:**  0f30c8313a960143c1ad86ff63cc1c55ce4a4d071c6c1dd5ddfd895b48afe5ef
 
-**Sha1:**  0bc0b93236d22a54d8a79ec2db01ca04986a7256
+**Sha1:**  db240ca14a665e5f9a448bc8e0e19e76e651d0fd
 
-**Md5sum:**  24c715002d3e730986589ca2dcbca3f5
+**Md5sum:**  1fa2b9da9ead6e089d3ad6d9bf866843
 
 **Description:** dummy package apparmor-profiles-kicksecure
  A metapackage, which satisfies the dependency on apparmor-profiles-kicksecure.
@@ -1944,13 +1944,13 @@ grand_parent: bullseye-testers
 
 **Package:** dummy-dependency-bindp
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -1966,15 +1966,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/dummy-dependency-bindp_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/dummy-dependency-bindp_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  1899e58ab193ecd094f5bc45e3d39c06e3a0626806f4d5f6e4bf459301ae659b
+**Sha256:**  35933e68aed21916e1c8e768b66f65a3cb0917accb1537f8c20a4d8cfdd93d2b
 
-**Sha1:**  8af9f16aca3a84ed48adb2a7375f5939516e0706
+**Sha1:**  d32f6d4c9096707f3d654f393177eee4123cf173
 
-**Md5sum:**  11ad7c6811c0fec0291e8d6567eec146
+**Md5sum:**  c38be564509197d3a59dfefb7307f0e6
 
 **Description:** dummy package to satisfy architecture specific dependency bindp
  A metapackage, which satisfies the dependency on bindp.
@@ -1991,13 +1991,13 @@ grand_parent: bullseye-testers
 
 **Package:** dummy-dependency-electrum
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -2013,15 +2013,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/dummy-dependency-electrum_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/dummy-dependency-electrum_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  be4dbb6b57bbdc8a3992f0ef5999dff5844e95eb8cadd463725c0931180e66e2
+**Sha256:**  5b95ca103f1c09df55eca9f8f6d6f6a856ffc2dd26b4f50768d72af594fab976
 
-**Sha1:**  f313a4f20f7d7cde5957b5ec737fc436d63acb25
+**Sha1:**  0075d7c4351e067e18a809f9de39a453c200ec79
 
-**Md5sum:**  226b9ab1bf80980dc3de14b1bcacd595
+**Md5sum:**  9a36b328b3a885191a2205549091249c
 
 **Description:** dummy package to satisfy architecture specific dependency electrum
  A metapackage, which satisfies the dependency on electrum.
@@ -2085,13 +2085,13 @@ grand_parent: bullseye-testers
 
 **Package:** dummy-dependency-hardened-malloc
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -2107,15 +2107,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/dummy-dependency-hardened-malloc_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/dummy-dependency-hardened-malloc_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  2eb92f1b7bf6a77cbfb4044a81f0edea816d8856d12b8395693c97ee4c7d5e97
+**Sha256:**  99a1721fca991a70d8f49b56e9022bfd19cbb2d0e3cbee29f93597cfcd81b3a8
 
-**Sha1:**  156f89f8b0ee5539917d19562ab65c5b77b3f964
+**Sha1:**  1f7cd3019ea13a14146512edca0a1ced0f06ce2f
 
-**Md5sum:**  f986aced064bb3ef4e03cf9698ade5b5
+**Md5sum:**  eef93800539e552750347f02e3bf3585
 
 **Description:** dummy package to satisfy architecture specific dependency hardened-malloc
  A metapackage, which satisfies the dependency on:
@@ -2134,13 +2134,13 @@ grand_parent: bullseye-testers
 
 **Package:** dummy-dependency-kloak
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -2156,15 +2156,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/dummy-dependency-kloak_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/dummy-dependency-kloak_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  6a6898d0ce7cbe472c599d852675607bdffbdc8936dbaf20f57cf10406ccd0fd
+**Sha256:**  9b271c898b67df7bd45e25fbd0b7579670e7cb9ee36cada25bc86e44cab6d305
 
-**Sha1:**  9078f1820661b06564dd8c166759e95b0145bd5a
+**Sha1:**  9c406606e20eef11ea1a57d6bf9721d2df83e87a
 
-**Md5sum:**  589967dd9afa9cb497821bd5c03d99d0
+**Md5sum:**  538f8cd03135b31c9fe0106f8834b205
 
 **Description:** dummy package to satisfy architecture specific dependency kloak
  A metapackage, which satisfies the dependency on kloak.
@@ -2181,13 +2181,13 @@ grand_parent: bullseye-testers
 
 **Package:** dummy-dependency-tirdad
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -2203,15 +2203,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/dummy-dependency-tirdad_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/dummy-dependency-tirdad_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  c09ecf0549ef75a8fd38e2d21aee6392dcdfa834286bb4ec99685b691b4f527a
+**Sha256:**  2bbce1c8843191ba155e97719b857cc2328351bf78bc1fc74a22ff84960ea9cd
 
-**Sha1:**  d611ebad60dcf65a023cebe6a3225ae1eef984b6
+**Sha1:**  1a46fe4f4abc9714fd07e1e4ddc53bf49ecbc449
 
-**Md5sum:**  739c2eecd6bd7f4274ee1f1562b8881a
+**Md5sum:**  7af471f96d664a15f20c75f1f823f6d7
 
 **Description:** dummy package to satisfy architecture specific dependency tirdad
  A metapackage, which satisfies the dependency on tirdad.
@@ -2228,13 +2228,13 @@ grand_parent: bullseye-testers
 
 **Package:** dummy-dependency-xorg-vm
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -2250,15 +2250,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/dummy-dependency-xorg-vm_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/dummy-dependency-xorg-vm_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  330d9f0c586dc89afbbd7ec01fc939606264467e38e13485ed762d3132f1fed3
+**Sha256:**  6ea25b2717cfe0e086ef667cb4121a96c2d86f4df3373c7ea8ef77f7c0ca7b58
 
-**Sha1:**  b036517b98e47798614eedc0a93d12f8858b6e83
+**Sha1:**  4470a87c65b513e773080873d518718acc296aa3
 
-**Md5sum:**  639a85c09aa37a35a13e03919d5d1f32
+**Md5sum:**  0d8c6d01e56e68f5ea6ff7481c6a090e
 
 **Description:** dummy dependency xserver-xorg-video-vmware
  A metapackage, which satisfies the dependency on xserver-xorg-video-vmware.
@@ -2619,13 +2619,13 @@ grand_parent: bullseye-testers
 
 **Package:** helper-scripts
 
-**Version:** 3:18.7-1
+**Version:** 3:18.9-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  247
+**Installed_size:**  248
 
 **Recommends:**  
 
@@ -2641,15 +2641,15 @@ grand_parent: bullseye-testers
 
 **Section:** misc
 
-**Filename:**  pool/main/h/helper-scripts/helper-scripts_18.7-1_all.deb
+**Filename:**  pool/main/h/helper-scripts/helper-scripts_18.9-1_all.deb
 
-**Size:**  247
+**Size:**  248
 
-**Sha256:**  110c0c2791bda13bb51fe3f4b503f73c4036e7b64f571f5ccc173afe6ff730fb
+**Sha256:**  e146a0daa53c4399eb4d006cb6f6ff86ca4deb9775e022d70052ff563497e9b1
 
-**Sha1:**  92fee5f8ba1170c5c26eb82037d3c849c39ceefc
+**Sha1:**  01078c3fbd10d46fb7211312a542ee9258469eb7
 
-**Md5sum:**  0f9410e9b1078c5da8b8f16c073cbb47
+**Md5sum:**  111b6983dea2c4abf5bf53eb49c3cb9d
 
 **Description:** Helper scripts useful for Linux Distributions
  Contains a script for curl progress bar in terminal. Includes another script
@@ -2817,13 +2817,13 @@ grand_parent: bullseye-testers
 
 **Package:** kicksecure-cli
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -2839,15 +2839,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-cli_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-cli_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  ee918a0e95c723649bccd2506a17d419cdf6028e6a5024e448546d43582d2ade
+**Sha256:**  451e2cee5cd5a00b00a80b1daa808ee60c60cd94b4822c22b12864b85a48d8a7
 
-**Sha1:**  ba71f7175ea26ee36850d227da68be701c9f6a82
+**Sha1:**  c9f327b3481437827c17f8057762ff0136598080
 
-**Md5sum:**  1622a2b968006ab2ea7b001fa3a7fc51
+**Md5sum:**  7736381aafa1b114b2b4a6f08e561ad3
 
 **Description:** Kicksecure command line interface CLI
  A metapackage, which installs packages, for Kicksecure CLI.
@@ -2860,13 +2860,13 @@ grand_parent: bullseye-testers
 
 **Package:** kicksecure-cli-host
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -2882,15 +2882,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-cli-host_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-cli-host_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  b03d5a758931f174ea375887594bc82e89c0c93f11d2fc19237a2f13ab00c074
+**Sha256:**  3fbceb91fdd2c18e67335ea04761b47df6be0cd55db456b7097402f74292da6b
 
-**Sha1:**  f484c4c4460788afe4e6568c6194e346f32deb99
+**Sha1:**  2ca28459775d5450b1887d6af669996cb06629c1
 
-**Md5sum:**  5be5dcc4f470ed91560f67c17757c0ad
+**Md5sum:**  b743d701c1ab5e0cf07678b01ed844b0
 
 **Description:** Kicksecure Host command line interface CLI
  A metapackage, which installs packages, for Kicksecure CLI Host.
@@ -2903,13 +2903,13 @@ grand_parent: bullseye-testers
 
 **Package:** kicksecure-cli-vm
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -2925,15 +2925,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-cli-vm_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-cli-vm_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  ff7e75d66660747025f0d44a15f0cebd1bb73cb61f4f9dd8d844ffd2c773f371
+**Sha256:**  63b3253aa672f9665aeb2831454367522a74291b8a57f76ba693ad14efb5d367
 
-**Sha1:**  db39cd77018ae1024cb7269a47d539efe97bf02c
+**Sha1:**  55dcb188138c68ea241411dc4c47374e951a6391
 
-**Md5sum:**  bc3535e5af4224159833d4c930777dcc
+**Md5sum:**  6386ec1d1fc820cb8a6f69e6569c930f
 
 **Description:** Kicksecure command line interface CLI VMs
  A metapackage, which installs packages, for Kicksecure CLI Virtual Machines.
@@ -2949,13 +2949,13 @@ grand_parent: bullseye-testers
 
 **Package:** kicksecure-default-applications-cli
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -2971,15 +2971,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-default-applications-cli_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-default-applications-cli_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  cce4bc089a39586f3f177444bde2537f6a64854dfc6e05c407f4fa78635a5a4c
+**Sha256:**  0e5598f3a202c66f290abbc10bbc2479add19a8bb21a87e4c2f70573b2f7d287
 
-**Sha1:**  42db8e35ed9e07a8ced73e2cd3c519691ea4c886
+**Sha1:**  6cd8cba91894401a8a2ddcd3ceba7485f7ef66ae
 
-**Md5sum:**  2b3bdb6652d3075c59f0d930866ebe1c
+**Md5sum:**  24cc95aba5c23784fe0846d8add18675
 
 **Description:** Default applications packages for Kicksecure
  A metapackage, which includes default packages to ensure, Kicksecure
@@ -2993,13 +2993,13 @@ grand_parent: bullseye-testers
 
 **Package:** kicksecure-dependencies-cli
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -3015,15 +3015,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-dependencies-cli_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-dependencies-cli_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  4865dad57575ebacd9d1d2ce6d5c091d657c750e36007d5e850fe6a0c550bfc7
+**Sha256:**  c3518bb0e45354bb57c71d4a07a73284c98a13000718fdcde93af0230e3f03b0
 
-**Sha1:**  0c7209de55dd3168c95ffc0a1a67d9774786918d
+**Sha1:**  6465e076c9f01c0640c320307b6bdf53444c612b
 
-**Md5sum:**  639db370a6d71a8f5c8358588b07c67f
+**Md5sum:**  efe0d990cfb3876fdf64f94b35d7fb91
 
 **Description:** Dependencies for hardened systems CLI
  A metapackage, which installs command line interface (CLI) packages which
@@ -3037,13 +3037,13 @@ grand_parent: bullseye-testers
 
 **Package:** kicksecure-dependencies-system
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -3059,15 +3059,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-dependencies-system_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-dependencies-system_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  3097893cf205b8217b1cba0877a78bedb58af8609c0fc1dc5f815b5ae95aea26
+**Sha256:**  031ede3a05f27f21b5ac65bfd5ff51b7a9fbabf782b9dac1779ca297436ec528
 
-**Sha1:**  30a90916e81685ce92932df0ec9042c92e9bddb9
+**Sha1:**  59aeea1e806f2237fa13a90cb033f0b21a552071
 
-**Md5sum:**  b5117c747cfd8ace2e77d90bf770108f
+**Md5sum:**  036cea52a910ffab3e57b4436eb09f76
 
 **Description:** System for hardened systems
  A metapackage, which installs system packages which
@@ -3083,13 +3083,13 @@ grand_parent: bullseye-testers
 
 **Package:** kicksecure-desktop-applications-recommended
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -3105,15 +3105,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-desktop-applications-recommended_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-desktop-applications-recommended_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  2e4073aac64c5fb07055edbaccaf26e053c31dc07e8a6875f6c9e390893897c4
+**Sha256:**  8fce67dac1b8703a76b8b3ad119eecbb0f01ffd204feede51faf88f4ff3246e2
 
-**Sha1:**  72a61ee45484a9f1d3c5651d9b1ca285a0bdaae9
+**Sha1:**  693742a92cefbf500a7b16905b82b5ddfe39930c
 
-**Md5sum:**  7f366c16d1932afb2453595b3b4116f6
+**Md5sum:**  3e359f2afb2aa71e56837e8a344a34c2
 
 **Description:** Kicksecure Recommended Desktop Applications
  A metapackage, which installs recommended packages, for graphical user
@@ -3127,13 +3127,13 @@ grand_parent: bullseye-testers
 
 **Package:** kicksecure-desktop-applications-xfce
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -3149,15 +3149,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-desktop-applications-xfce_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-desktop-applications-xfce_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  bde57e12da77f0656c0b33d751bd94387560e2d83cb188b1c2b94ee56f3c3034
+**Sha256:**  1ed4c309a9adc47e6278915afff81083cb1bf199d45d0009ba45462b00a49774
 
-**Sha1:**  dcc2ffdb34112c7cd89fb60e278b3579f46fd919
+**Sha1:**  59dc515a6934d14549a6cc2dbfbab61d2b6af096
 
-**Md5sum:**  399270417548774264bfb372c76e9834
+**Md5sum:**  b7e1ee648e0882ae2156dab0c1d901c8
 
 **Description:** Recommended applications for hardened Xfce desktop GUI
  A metapackage, which installs minimal, yet complete enough
@@ -3171,13 +3171,13 @@ grand_parent: bullseye-testers
 
 **Package:** kicksecure-desktop-environment-essential-gui
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -3193,15 +3193,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-desktop-environment-essential-gui_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-desktop-environment-essential-gui_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  63e72bcd7d62f704f68fc1411da12e7225c5b99c72e46df622449a59c805dd6a
+**Sha256:**  8517a5816c29a10188d5c35a67e587e66a7c753904175cfba4216266e5c692dc
 
-**Sha1:**  31c3939b9edca54760b7e468e5d97f5d77d88123
+**Sha1:**  111a9a23004c1137962b35028d5808561c4d719c
 
-**Md5sum:**  dc373fe61b412bd70294980efc38293e
+**Md5sum:**  a8705dbd0f16c8e596091415d6da8daf
 
 **Description:** Desktop Depends GUI
  A metapackage, which installs dependencies for desktop environments,
@@ -3215,13 +3215,13 @@ grand_parent: bullseye-testers
 
 **Package:** kicksecure-desktop-environment-essential-xfce
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -3237,15 +3237,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-desktop-environment-essential-xfce_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-desktop-environment-essential-xfce_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  1ac3da3ff72c60bba94a80d251a246a43ec8fa8414b2df3b3fda8d02284fd30c
+**Sha256:**  76a79a8ec8f440e16daaa783a1db55b8d3ae9a49cf9028ff2efb62cf80422d77
 
-**Sha1:**  96ad652f78cdca775033f2a48a34d5e28bfb660a
+**Sha1:**  1a05816cd440707355be2e052d0ebafc1320851c
 
-**Md5sum:**  9c65816197d50db6d8f73d5b7f45a66a
+**Md5sum:**  4faa89af2c77a3be68c853ff4fb3cf33
 
 **Description:** Recommended applications for hardened Xfce Desktop Environment
  A metapackage, which installs minimal, yet complete enough
@@ -3351,13 +3351,13 @@ grand_parent: bullseye-testers
 
 **Package:** kicksecure-packages-dependencies-pre
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -3373,15 +3373,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-packages-dependencies-pre_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-packages-dependencies-pre_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  48a27d2370455350393aac267a89d7488cbf9f418d929457b2703e1d13c82f10
+**Sha256:**  5cd2ff1c97fd0fa0b8f185c65bbea49bc87744ef07c3e0c62d472533037b903c
 
-**Sha1:**  9b16dcdbceebdea9c3c1ec5b71490d5742eeee98
+**Sha1:**  354c6efb41d37b553aa27f3abe5ecdc905d43b33
 
-**Md5sum:**  a6fdea690b5840e0dbcd42207b71b5cc
+**Md5sum:**  8d3fa907677e60b7f0f130ac88d9e8de
 
 **Description:** Dependencies for Kicksecure that changes network related files
  A metapackage, which installs packages which Kicksecure depends on. Can not
@@ -3395,13 +3395,13 @@ grand_parent: bullseye-testers
 
 **Package:** kicksecure-qubes-cli
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -3417,15 +3417,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-qubes-cli_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-qubes-cli_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  5f6f97c8e88ce18d2793b6e7027fd99a6b444a88c7f85e0a25088a3dd0f2a319
+**Sha256:**  9feda3bdeacacc41aa19477d3661fcf7f4240ab3cd642fedddb5b25673f08a47
 
-**Sha1:**  1e0257034eb6162d3d50e30c6c7d94923816a61d
+**Sha1:**  3da7f7ee4b10db0e05417c7c87a567dada27123f
 
-**Md5sum:**  3fb94a459695a29670e54c215d690a6f
+**Md5sum:**  706f541d97323f1e04250f78706d18ad
 
 **Description:** Default packages for Kicksecure-Qubes CLI
  A metapackage, which installs packages, for Kicksecure on Qubes without
@@ -3442,13 +3442,13 @@ grand_parent: bullseye-testers
 
 **Package:** kicksecure-qubes-gui
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -3464,15 +3464,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-qubes-gui_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-qubes-gui_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  0ea3848abf0e93541de2b709efae7e2d5bfc680818b4e10d99c82085ef939b23
+**Sha256:**  729ecad243ab3920b3720e525a7343fee9e44cbf9c3c16a9df30e5bd8a0c36bd
 
-**Sha1:**  b81e72e69697dfdf9c18e9645a1c6278a2cd3fb6
+**Sha1:**  ba5d41ba07e600c3ad1a805c5687f71bf5476419
 
-**Md5sum:**  8bcaeb3255653f2bbaa7d5ffc5313369
+**Md5sum:**  74eb4f298fec2b7c91ee5f3f47f99aeb
 
 **Description:** Default packages for Kicksecure-Qubes GUI
  A metapackage, which installs packages, for Kicksecure on Qubes including
@@ -3486,13 +3486,13 @@ grand_parent: bullseye-testers
 
 **Package:** kicksecure-recommended-cli
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -3508,15 +3508,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-recommended-cli_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-recommended-cli_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  b78aa53e3b7719c903182677e07d21caa36efb83d82c502b7ffc288558f5f830
+**Sha256:**  392fddc45fa8ee38214ec1e02de0ecfded8ccb945ceb85e78357bdbda7caf7bd
 
-**Sha1:**  bf4a8a63468baa60e8b87a345f446cd08dafe9a2
+**Sha1:**  ee2b998e313e3ecfb8ddc9cc4d95377f8c6cc652
 
-**Md5sum:**  82f42614d15069456ec9d94a97695798
+**Md5sum:**  70b380204c582a4f2219b9d9454b3eb5
 
 **Description:** Recommended packages for Kicksecure
  A metapackage, which includes recommended packages to ensure, Kicksecure
@@ -3530,13 +3530,13 @@ grand_parent: bullseye-testers
 
 **Package:** kicksecure-shared-host-xfce
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -3552,15 +3552,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-shared-host-xfce_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-shared-host-xfce_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  7f2688ff81fd044a574bfac844bcf5915def9a795771acdb3b0035e417d47708
+**Sha256:**  babcb3255aea24cce0bd0c7320b0197432b9da52743e8f773ed90c43c253ec4f
 
-**Sha1:**  497ede16acec4f6f588a0d76e59156e598b43dba
+**Sha1:**  9ba8896f13d2244b96a9f1a90caeee9a2feac8bd
 
-**Md5sum:**  8f294067037637a3cfbca2eb53e56bc2
+**Md5sum:**  26a84b6962d95f46b0908a4243583605
 
 **Description:** Kicksecure Shared Host Xfce GUI
  A metapackage, which installs packages, which are recommended for
@@ -3620,13 +3620,13 @@ grand_parent: bullseye-testers
 
 **Package:** kicksecure-xfce
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -3642,15 +3642,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-xfce_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-xfce_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  88bba70ec271c8ca71daae11e5d3448aed51fc290ead1b89cdf052f78a9b07b2
+**Sha256:**  ad1f44459a91ffacb802edd6628870c6e873af4f6e0159a6030cfad9b9b2a22f
 
-**Sha1:**  61abae1a69cce1d85b42357ac1e8824b4a7491b2
+**Sha1:**  69a736717da539e92ed3b31e29b09b17858418b2
 
-**Md5sum:**  d96219fccc9bc6efbb4acb591366c772
+**Md5sum:**  4099657297fbb3596e2fbf2eeb068cb3
 
 **Description:** Kicksecure Xfce GUI
  A metapackage, which installs packages, for Kicksecure Xfce.
@@ -3663,13 +3663,13 @@ grand_parent: bullseye-testers
 
 **Package:** kicksecure-xfce-host
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -3685,15 +3685,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-xfce-host_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-xfce-host_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  36e3b57cc517ef3332b9c25597dc70f379c76b937bab9437e0d9f42dbc86abf6
+**Sha256:**  2afbbcae61ef95e96b458680dc0d5b5b93494c2c2cafe7c77e04395b1e07796d
 
-**Sha1:**  af83a8f8e1e2f2a92fc3babc8d3d9f1261c71f01
+**Sha1:**  a7ea470108d27e0e520c8e99fe69d50bcf2e849c
 
-**Md5sum:**  dbba3c9009e322da79e205af96289164
+**Md5sum:**  80c00bd4808a293b25ec8fdcd7657071
 
 **Description:** Kicksecure Host Xfce GUI
  A metapackage, which installs packages, for Kicksecure Xfce Host.
@@ -3706,13 +3706,13 @@ grand_parent: bullseye-testers
 
 **Package:** kicksecure-xfce-vm
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -3728,15 +3728,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-xfce-vm_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/kicksecure-xfce-vm_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  32dddde941d329f2b4be9080a8f47e28b3d3e40de573e19777061491adc7e750
+**Sha256:**  78766fa061d280a701fc1ccbba23ea359b16692dd3705ac922c7733fa2043ce0
 
-**Sha1:**  63f2843f3e84bfdb046560889d41a356a50c6006
+**Sha1:**  bfb25b1623b7752fc9a95ce34e93b292f6850dc7
 
-**Md5sum:**  9528d0e4ee2459dc2cc30198d7b98c47
+**Md5sum:**  b5766e15ee7fe3023b31f97364aa84ab
 
 **Description:** Kicksecure Xfce GUI for VMs
  A metapackage, which installs packages, for Kicksecure Xfce in Virtual
@@ -4191,13 +4191,13 @@ grand_parent: bullseye-testers
 
 **Package:** non-qubes-audio
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -4213,15 +4213,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/non-qubes-audio_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/non-qubes-audio_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  179b42241ba3484ee1adeb953c511fe2ded8dcc7a04e03d027d7362e89abbc6b
+**Sha256:**  305f5a63283ba37e3ae263c1b8bd826f326da3cd982ffc4d524bbe2c11785dc8
 
-**Sha1:**  f5fcefc0c89308ec752b30562f1a30d96f90837c
+**Sha1:**  9cdcde859c0ec200893a3cb0c838615bbb98b4ff
 
-**Md5sum:**  fb5b7ba5c293341e3a14443be9e0a831
+**Md5sum:**  3d60a901046539a33895e6e8fb868a64
 
 **Description:** Recommended packages for Audio Support in non-Qubes
  A metapackage, which includes recommended packages which are useful to provide
@@ -4238,13 +4238,13 @@ grand_parent: bullseye-testers
 
 **Package:** non-qubes-vm-enhancements-cli
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -4260,15 +4260,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/non-qubes-vm-enhancements-cli_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/non-qubes-vm-enhancements-cli_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  2016f9392b8e0e7d7d3709a92d6f306f624e595dd3a4d77b83732a284cd20bde
+**Sha256:**  caf51b960dcd2edc8d9c8762c4a94a39c197a1140128a7942357c3791f7a7484
 
-**Sha1:**  cae7734514a0693886d5ef12dfbd6e44055dad3e
+**Sha1:**  ad511dcd7ae413e926a5c50e4f65765fa60bbb0c
 
-**Md5sum:**  f3b92b7d3964339a3c6d2c8451ae05e9
+**Md5sum:**  c57ea0b75743bd95f7af0eead4b3baef
 
 **Description:** Recommended packages for terminal based VMs CLI
  A metapackage, which includes recommended packages which are useful within
@@ -4284,13 +4284,13 @@ grand_parent: bullseye-testers
 
 **Package:** non-qubes-vm-enhancements-gui
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -4306,15 +4306,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/non-qubes-vm-enhancements-gui_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/non-qubes-vm-enhancements-gui_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  c08cfe3a640e23e09a46dd276a9d3614cba8b93e9b9b5f245c435e6012480db9
+**Sha256:**  ceab5de2d80bc8784a281b2733fd446f9a20bc684ab9573557465429a6ce375f
 
-**Sha1:**  8117911cefcde9f4561fafb4484fbf8ed15c9359
+**Sha1:**  a6387c654359b4a05379a35f6524665c9f7638d0
 
-**Md5sum:**  1ac390044ae5c1a9e61c56ad540dbee5
+**Md5sum:**  23b3cccbfbd00c2f075ae5f219f2d5dc
 
 **Description:** Recommended packages for graphical VMs GUI
  A metapackage, which includes recommended packages which are useful within
@@ -4629,13 +4629,13 @@ grand_parent: bullseye-testers
 
 **Package:** orca-screen-reader-support
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -4651,15 +4651,15 @@ grand_parent: bullseye-testers
 
 **Section:** metapackages
 
-**Filename:**  pool/main/k/kicksecure-meta-packages/orca-screen-reader-support_25.8-1_all.deb
+**Filename:**  pool/main/k/kicksecure-meta-packages/orca-screen-reader-support_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  f088ad1cd5eed065e95c2365bafec413db618f6a9480f0afdef6db2837a6dc8e
+**Sha256:**  4194a991e57636095b2d6870782018266c6241fbc391cf38f2c068b5590aaa8e
 
-**Sha1:**  c1d1278d2f77140f5bed616f3179c05c61615b99
+**Sha1:**  27e0ad9393355c4b75611f98b8a9f77fd50e6061
 
-**Md5sum:**  3d0732b226b24707801ba3635b59767e
+**Md5sum:**  4ebd48bde711339333d520909505caba
 
 **Description:** dependencies for the orca screen reader
  A metapackage, which includes depencency packages for the orca screen reader.
@@ -5253,13 +5253,13 @@ grand_parent: bullseye-testers
 
 **Package:** sdwdate
 
-**Version:** 3:21.6-1
+**Version:** 3:21.7-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  305
+**Installed_size:**  304
 
 **Recommends:**  timesanitycheck, bootclockrandomization
 
@@ -5275,15 +5275,15 @@ grand_parent: bullseye-testers
 
 **Section:** misc
 
-**Filename:**  pool/main/s/sdwdate/sdwdate_21.6-1_all.deb
+**Filename:**  pool/main/s/sdwdate/sdwdate_21.7-1_all.deb
 
-**Size:**  305
+**Size:**  304
 
-**Sha256:**  30a03475013a081f919e28b1c554be615f2d6f33aef9b514401a1a0ab6db6144
+**Sha256:**  dab13e95180fa57002c5dc76a9e608fe37976a3401e503e4af04b1139250bc9f
 
-**Sha1:**  0e5b977da01dafd877b53b580f18ef34534ba3f8
+**Sha1:**  771e0cff045068f0fb4846c857d870195fd6e29a
 
-**Md5sum:**  5ad467fd1e4b984c003dc4c538da297b
+**Md5sum:**  d2f1e37605947ca75f5ab6a910465b22
 
 **Description:** Secure Distributed Network Time Synchronization
  Time keeping is crucial for security, privacy, and anonymity. Sdwdate is a Tor
@@ -5348,13 +5348,13 @@ grand_parent: bullseye-testers
 
 **Package:** security-misc
 
-**Version:** 3:28.3-1
+**Version:** 3:28.6-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  388
+**Installed_size:**  394
 
 **Recommends:**  
 
@@ -5370,15 +5370,15 @@ grand_parent: bullseye-testers
 
 **Section:** misc
 
-**Filename:**  pool/main/s/security-misc/security-misc_28.3-1_all.deb
+**Filename:**  pool/main/s/security-misc/security-misc_28.6-1_all.deb
 
-**Size:**  388
+**Size:**  394
 
-**Sha256:**  389414776d763e6941e228b9d0c42ca186158f1156a40ec48fe27fc515962f64
+**Sha256:**  b17b873e2e66e849714c0ac165ca46f23cb92a50907848ac07596f2389267c16
 
-**Sha1:**  767daac9efe7828b02a1e6d66036a25db70b5b0f
+**Sha1:**  cbd1e96d1e2b27da80426fb67c1d503d2fcfd306
 
-**Md5sum:**  02fff0476c3831f543aace83dae98de6
+**Md5sum:**  56a1b51369a33856690b18f3383c166f
 
 **Description:** Enhances Miscellaneous Security Settings
  https://github.com/Whonix/security-misc/blob/master/README.md
@@ -5777,13 +5777,13 @@ grand_parent: bullseye-testers
 
 **Package:** tb-updater
 
-**Version:** 3:25.4-1
+**Version:** 3:25.5-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  297
+**Installed_size:**  298
 
 **Recommends:**  tb-starter, icon-pack-dist, helper-scripts
 
@@ -5799,15 +5799,15 @@ grand_parent: bullseye-testers
 
 **Section:** misc
 
-**Filename:**  pool/main/t/tb-updater/tb-updater_25.4-1_all.deb
+**Filename:**  pool/main/t/tb-updater/tb-updater_25.5-1_all.deb
 
-**Size:**  297
+**Size:**  298
 
-**Sha256:**  08dfc72c73392149fe8c7ff9783f99c6393d4a8d3dccb4714792c8c16f74e9ff
+**Sha256:**  d2f25863b0038d1087966f472b0de5b6ad64d711be0594fa1cea2e2a04459fbe
 
-**Sha1:**  08f07c1f0e8b5a0cdc75b8f41e7d5d39e7fc371a
+**Sha1:**  0b03b3cc246e45d30a86c7bb0dcf13397ccea6e3
 
-**Md5sum:**  7b7118e4398d31423ec049de55d98ea8
+**Md5sum:**  efbd3743cdffaafb61657b5686a273dd
 
 **Description:** Tor Browser Downloader by Whonix developers
  Automates download and verification of Tor Browser from The Tor Project's
@@ -6058,13 +6058,13 @@ grand_parent: bullseye-testers
 
 **Package:** usability-misc
 
-**Version:** 3:12.9-1
+**Version:** 3:13.5-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  339
+**Installed_size:**  349
 
 **Recommends:**  
 
@@ -6080,15 +6080,15 @@ grand_parent: bullseye-testers
 
 **Section:** misc
 
-**Filename:**  pool/main/u/usability-misc/usability-misc_12.9-1_all.deb
+**Filename:**  pool/main/u/usability-misc/usability-misc_13.5-1_all.deb
 
-**Size:**  339
+**Size:**  349
 
-**Sha256:**  ccd93b6361b66a6dada7879753e1fea43964ed70bf9f71d230199030c98b976c
+**Sha256:**  88fe361371b7c95766581bea91a03da107d6a5a85de8e46ae2cb75fac22f15a3
 
-**Sha1:**  4d1684e32f61473f3b66edc0c343f260673826c2
+**Sha1:**  6d74cd46b52dcaaa9b40f0211f84d5a952806908
 
-**Md5sum:**  eb7d2e81787bcd8a8ab3fd200c5c322f
+**Md5sum:**  4cc6cdc50b57b88a6afe7d697bcbfe85
 
 **Description:** Misc usability improvements
  Creates user "user" if it does not already exist.
@@ -6377,7 +6377,7 @@ grand_parent: bullseye-testers
 
 **Package:** whonix-firewall
 
-**Version:** 3:11.4-1
+**Version:** 3:11.5-1
 
 **Architecture:**  all
 
@@ -6399,15 +6399,15 @@ grand_parent: bullseye-testers
 
 **Section:** misc
 
-**Filename:**  pool/main/w/whonix-firewall/whonix-firewall_11.4-1_all.deb
+**Filename:**  pool/main/w/whonix-firewall/whonix-firewall_11.5-1_all.deb
 
 **Size:**  178
 
-**Sha256:**  7c92001545c893b016369f3880aafaf6ee33e9618bc4d217448db5408a352213
+**Sha256:**  5d5d60c6eae2b29c5e9058a4027889ee9ac89fba250634a72a50f421f2a4e387
 
-**Sha1:**  6ee9aa60f37661c25c35ff9a22522b55909884eb
+**Sha1:**  d7c711f3bc00a26c3a37aa30e26a0fa33580ffb3
 
-**Md5sum:**  a56ad08a85305a10d969cf5fdddefc99
+**Md5sum:**  b47d78248815afccbbce49eff762c4eb
 
 **Description:** Firewall for Whonix-Gateway and Whonix-Workstation
  iptables rules script and firewall configuration file for Whonix-Gateway and

@@ -18,13 +18,13 @@ grand_parent: bullseye-testers
 
 **Package:** dummy-contrib
 
-**Version:** 3:25.8-1
+**Version:** 3:26.1-1
 
 **Architecture:**  all
 
 **Maintainer:**  Patrick Schleizer <adrelanos@whonix.org>
 
-**Installed_size:**  65
+**Installed_size:**  66
 
 **Recommends:**  
 
@@ -40,15 +40,15 @@ grand_parent: bullseye-testers
 
 **Section:** contrib/metapackages
 
-**Filename:**  pool/contrib/k/kicksecure-meta-packages/dummy-contrib_25.8-1_all.deb
+**Filename:**  pool/contrib/k/kicksecure-meta-packages/dummy-contrib_26.1-1_all.deb
 
-**Size:**  65
+**Size:**  66
 
-**Sha256:**  192c6ec9b1e6f37a11fc4add84a7eb345fd697681aa5f8d26a35232ea9499fbd
+**Sha256:**  3bed13b5f82634b43f38f5c299a5f4fbf344b73ec63a298476faca7300e2a804
 
-**Sha1:**  f6a119eaa409a08135e6c2c5cdddb9f73f5b710e
+**Sha1:**  815ba35c49183a8b5a18d4e8ad3530f089f7984c
 
-**Md5sum:**  b3a4beb84d62d77ba45f71b78f9d5f6f
+**Md5sum:**  df2b57a0e91dbc8e943347d323ca4db5
 
 **Description:** dummy contrib package
  A metapackage, without contents to populate the contrib repository.
