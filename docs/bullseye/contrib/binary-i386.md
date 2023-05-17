@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-i386
-nav_order: 44
+nav_order: 97
 parent: contrib
 grand_parent: bullseye
 ---
@@ -14,7 +14,7 @@ grand_parent: bullseye
 
 
 
-## dummy-contrib 
+## dummy-contrib
 
 **Package:** dummy-contrib
 

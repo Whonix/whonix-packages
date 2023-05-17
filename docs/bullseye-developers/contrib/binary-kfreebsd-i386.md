@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-kfreebsd-i386
-nav_order: 98
+nav_order: 53
 parent: contrib
 grand_parent: bullseye-developers
 ---
@@ -14,7 +14,7 @@ grand_parent: bullseye-developers
 
 
 
-## dummy-contrib 
+## dummy-contrib
 
 **Package:** dummy-contrib
 

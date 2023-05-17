@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-amd64
-nav_order: 90
+nav_order: 46
 parent: contrib
 grand_parent: bullseye-developers
 ---
@@ -14,7 +14,7 @@ grand_parent: bullseye-developers
 
 
 
-## dummy-contrib 
+## dummy-contrib
 
 **Package:** dummy-contrib
 

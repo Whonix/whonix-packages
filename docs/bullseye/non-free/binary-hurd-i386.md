@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-hurd-i386
-nav_order: 26
+nav_order: 79
 parent: non-free
 grand_parent: bullseye
 ---
@@ -23,7 +23,7 @@ grand_parent: bullseye
 
 
 
-## dummy-nonfree 
+## dummy-nonfree
 
 **Package:** dummy-nonfree
 
@@ -71,7 +71,7 @@ grand_parent: bullseye
 
 
 
-## firmware-nonfreedom 
+## firmware-nonfreedom
 
 **Package:** firmware-nonfreedom
 
@@ -117,7 +117,7 @@ grand_parent: bullseye
 
 
 
-## virtualbox-guest-additions-iso 
+## virtualbox-guest-additions-iso
 
 **Package:** virtualbox-guest-additions-iso
 
@@ -164,7 +164,7 @@ grand_parent: bullseye
 
 
 
-## whonix-host-xfce-kvm-nonfreedom 
+## whonix-host-xfce-kvm-nonfreedom
 
 **Package:** whonix-host-xfce-kvm-nonfreedom
 

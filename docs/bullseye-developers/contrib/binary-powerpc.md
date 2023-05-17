@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-powerpc
-nav_order: 101
+nav_order: 39
 parent: contrib
 grand_parent: bullseye-developers
 ---
@@ -14,7 +14,7 @@ grand_parent: bullseye-developers
 
 
 
-## dummy-contrib 
+## dummy-contrib
 
 **Package:** dummy-contrib
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-powerpc
-nav_order: 84
+nav_order: 22
 parent: non-free
 grand_parent: bullseye-developers
 ---
@@ -23,7 +23,7 @@ grand_parent: bullseye-developers
 
 
 
-## dummy-nonfree 
+## dummy-nonfree
 
 **Package:** dummy-nonfree
 
@@ -71,7 +71,7 @@ grand_parent: bullseye-developers
 
 
 
-## firmware-nonfreedom 
+## firmware-nonfreedom
 
 **Package:** firmware-nonfreedom
 
@@ -117,7 +117,7 @@ grand_parent: bullseye-developers
 
 
 
-## virtualbox-guest-additions-iso 
+## virtualbox-guest-additions-iso
 
 **Package:** virtualbox-guest-additions-iso
 
@@ -164,7 +164,7 @@ grand_parent: bullseye-developers
 
 
 
-## whonix-host-xfce-kvm-nonfreedom 
+## whonix-host-xfce-kvm-nonfreedom
 
 **Package:** whonix-host-xfce-kvm-nonfreedom
 

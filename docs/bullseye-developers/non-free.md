@@ -1,7 +1,7 @@
 ---
 layout: default
 title: non-free
-nav_order: 72
+nav_order: 20
 has_children: true
 parent: bullseye-developers
 ---

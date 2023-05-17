@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-mips
-nav_order: 117
+nav_order: 121
 parent: main
 grand_parent: bullseye-proposed-updates
 ---
@@ -410,7 +410,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## anon-apps-config 
+## anon-apps-config
 
 **Package:** anon-apps-config
 
@@ -549,7 +549,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## anon-apt-sources-list 
+## anon-apt-sources-list
 
 **Package:** anon-apt-sources-list
 
@@ -596,7 +596,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## anon-connection-wizard 
+## anon-connection-wizard
 
 **Package:** anon-connection-wizard
 
@@ -654,7 +654,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## anon-gw-anonymizer-config 
+## anon-gw-anonymizer-config
 
 **Package:** anon-gw-anonymizer-config
 
@@ -708,7 +708,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## anon-gw-base-files 
+## anon-gw-base-files
 
 **Package:** anon-gw-base-files
 
@@ -758,7 +758,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## anon-shared-build-apt-sources-tpo 
+## anon-shared-build-apt-sources-tpo
 
 **Package:** anon-shared-build-apt-sources-tpo
 
@@ -803,7 +803,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## anon-ws-base-files 
+## anon-ws-base-files
 
 **Package:** anon-ws-base-files
 
@@ -864,7 +864,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## anon-ws-disable-stacked-tor 
+## anon-ws-disable-stacked-tor
 
 **Package:** anon-ws-disable-stacked-tor
 
@@ -938,7 +938,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## apparmor-profile-dist 
+## apparmor-profile-dist
 
 **Package:** apparmor-profile-dist
 
@@ -984,7 +984,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## apparmor-profile-everything 
+## apparmor-profile-everything
 
 **Package:** apparmor-profile-everything
 
@@ -1059,7 +1059,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## apparmor-profile-hexchat 
+## apparmor-profile-hexchat
 
 **Package:** apparmor-profile-hexchat
 
@@ -1104,7 +1104,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## apparmor-profile-thunderbird 
+## apparmor-profile-thunderbird
 
 **Package:** apparmor-profile-thunderbird
 
@@ -1154,7 +1154,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## apparmor-profile-torbrowser 
+## apparmor-profile-torbrowser
 
 **Package:** apparmor-profile-torbrowser
 
@@ -1199,7 +1199,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## apparmor-profiles-kicksecure 
+## apparmor-profiles-kicksecure
 
 **Package:** apparmor-profiles-kicksecure
 
@@ -1253,7 +1253,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## binaries-freedom 
+## binaries-freedom
 
 **Package:** binaries-freedom
 
@@ -1296,7 +1296,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## bindp 
+## bindp
 
 **Package:** bindp
 
@@ -1340,7 +1340,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## bootclockrandomization 
+## bootclockrandomization
 
 **Package:** bootclockrandomization
 
@@ -1391,7 +1391,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## corridor 
+## corridor
 
 **Package:** corridor
 
@@ -1449,7 +1449,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## damngpl 
+## damngpl
 
 **Package:** damngpl
 
@@ -1503,7 +1503,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## deb.torproject.org-keyring 
+## deb.torproject.org-keyring
 
 **Package:** deb.torproject.org-keyring
 
@@ -1547,7 +1547,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## debug-misc 
+## debug-misc
 
 **Package:** debug-misc
 
@@ -1629,7 +1629,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## desktop-config-dist 
+## desktop-config-dist
 
 **Package:** desktop-config-dist
 
@@ -1693,7 +1693,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## desktop-config-dist-dependencies 
+## desktop-config-dist-dependencies
 
 **Package:** desktop-config-dist-dependencies
 
@@ -1736,7 +1736,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## developer-meta-files 
+## developer-meta-files
 
 **Package:** developer-meta-files
 
@@ -1779,7 +1779,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## dist-base-files 
+## dist-base-files
 
 **Package:** dist-base-files
 
@@ -1840,7 +1840,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## dummy-dependency 
+## dummy-dependency
 
 **Package:** dummy-dependency
 
@@ -1893,7 +1893,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## dummy-dependency-apparmor-profiles-kicksecure 
+## dummy-dependency-apparmor-profiles-kicksecure
 
 **Package:** dummy-dependency-apparmor-profiles-kicksecure
 
@@ -1940,7 +1940,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## dummy-dependency-bindp 
+## dummy-dependency-bindp
 
 **Package:** dummy-dependency-bindp
 
@@ -1987,7 +1987,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## dummy-dependency-electrum 
+## dummy-dependency-electrum
 
 **Package:** dummy-dependency-electrum
 
@@ -2034,7 +2034,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## dummy-dependency-hardened-electrum 
+## dummy-dependency-hardened-electrum
 
 **Package:** dummy-dependency-hardened-electrum
 
@@ -2081,7 +2081,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## dummy-dependency-hardened-malloc 
+## dummy-dependency-hardened-malloc
 
 **Package:** dummy-dependency-hardened-malloc
 
@@ -2130,7 +2130,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## dummy-dependency-kloak 
+## dummy-dependency-kloak
 
 **Package:** dummy-dependency-kloak
 
@@ -2177,7 +2177,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## dummy-dependency-tirdad 
+## dummy-dependency-tirdad
 
 **Package:** dummy-dependency-tirdad
 
@@ -2224,7 +2224,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## dummy-dependency-xorg-vm 
+## dummy-dependency-xorg-vm
 
 **Package:** dummy-dependency-xorg-vm
 
@@ -2271,7 +2271,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## genmkfile 
+## genmkfile
 
 **Package:** genmkfile
 
@@ -2353,7 +2353,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## gpg-bash-lib 
+## gpg-bash-lib
 
 **Package:** gpg-bash-lib
 
@@ -2400,7 +2400,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## grub-live 
+## grub-live
 
 **Package:** grub-live
 
@@ -2448,7 +2448,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## grub-live-dracut 
+## grub-live-dracut
 
 **Package:** grub-live-dracut
 
@@ -2491,7 +2491,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## grub-live-initramfs-tools 
+## grub-live-initramfs-tools
 
 **Package:** grub-live-initramfs-tools
 
@@ -2534,7 +2534,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## hardened-kernel 
+## hardened-kernel
 
 **Package:** hardened-kernel
 
@@ -2615,7 +2615,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## helper-scripts 
+## helper-scripts
 
 **Package:** helper-scripts
 
@@ -2676,7 +2676,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## icon-pack-dist 
+## icon-pack-dist
 
 **Package:** icon-pack-dist
 
@@ -2719,7 +2719,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## initializer-dist 
+## initializer-dist
 
 **Package:** initializer-dist
 
@@ -2768,7 +2768,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-base-files 
+## kicksecure-base-files
 
 **Package:** kicksecure-base-files
 
@@ -2813,7 +2813,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-cli 
+## kicksecure-cli
 
 **Package:** kicksecure-cli
 
@@ -2856,7 +2856,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-cli-host 
+## kicksecure-cli-host
 
 **Package:** kicksecure-cli-host
 
@@ -2899,7 +2899,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-cli-vm 
+## kicksecure-cli-vm
 
 **Package:** kicksecure-cli-vm
 
@@ -2945,7 +2945,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-default-applications-cli 
+## kicksecure-default-applications-cli
 
 **Package:** kicksecure-default-applications-cli
 
@@ -2989,7 +2989,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-dependencies-cli 
+## kicksecure-dependencies-cli
 
 **Package:** kicksecure-dependencies-cli
 
@@ -3033,7 +3033,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-dependencies-system 
+## kicksecure-dependencies-system
 
 **Package:** kicksecure-dependencies-system
 
@@ -3079,7 +3079,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-desktop-applications-recommended 
+## kicksecure-desktop-applications-recommended
 
 **Package:** kicksecure-desktop-applications-recommended
 
@@ -3123,7 +3123,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-desktop-applications-xfce 
+## kicksecure-desktop-applications-xfce
 
 **Package:** kicksecure-desktop-applications-xfce
 
@@ -3167,7 +3167,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-desktop-environment-essential-gui 
+## kicksecure-desktop-environment-essential-gui
 
 **Package:** kicksecure-desktop-environment-essential-gui
 
@@ -3211,7 +3211,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-desktop-environment-essential-xfce 
+## kicksecure-desktop-environment-essential-xfce
 
 **Package:** kicksecure-desktop-environment-essential-xfce
 
@@ -3255,7 +3255,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-network-conf 
+## kicksecure-network-conf
 
 **Package:** kicksecure-network-conf
 
@@ -3303,7 +3303,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-network-conf-gui 
+## kicksecure-network-conf-gui
 
 **Package:** kicksecure-network-conf-gui
 
@@ -3347,7 +3347,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-packages-dependencies-pre 
+## kicksecure-packages-dependencies-pre
 
 **Package:** kicksecure-packages-dependencies-pre
 
@@ -3391,7 +3391,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-qubes-cli 
+## kicksecure-qubes-cli
 
 **Package:** kicksecure-qubes-cli
 
@@ -3438,7 +3438,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-qubes-gui 
+## kicksecure-qubes-gui
 
 **Package:** kicksecure-qubes-gui
 
@@ -3482,7 +3482,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-recommended-cli 
+## kicksecure-recommended-cli
 
 **Package:** kicksecure-recommended-cli
 
@@ -3526,7 +3526,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-shared-host-xfce 
+## kicksecure-shared-host-xfce
 
 **Package:** kicksecure-shared-host-xfce
 
@@ -3571,7 +3571,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-welcome-page 
+## kicksecure-welcome-page
 
 **Package:** kicksecure-welcome-page
 
@@ -3616,7 +3616,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-xfce 
+## kicksecure-xfce
 
 **Package:** kicksecure-xfce
 
@@ -3659,7 +3659,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-xfce-host 
+## kicksecure-xfce-host
 
 **Package:** kicksecure-xfce-host
 
@@ -3702,7 +3702,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## kicksecure-xfce-vm 
+## kicksecure-xfce-vm
 
 **Package:** kicksecure-xfce-vm
 
@@ -3749,7 +3749,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## legacy-dist 
+## legacy-dist
 
 **Package:** legacy-dist
 
@@ -3795,7 +3795,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## libvirt-dist 
+## libvirt-dist
 
 **Package:** libvirt-dist
 
@@ -3845,7 +3845,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## live-config-dist 
+## live-config-dist
 
 **Package:** live-config-dist
 
@@ -3890,7 +3890,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## lkrg 
+## lkrg
 
 **Package:** lkrg
 
@@ -3940,7 +3940,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## lkrg-dkms 
+## lkrg-dkms
 
 **Package:** lkrg-dkms
 
@@ -3988,7 +3988,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## lkrg-systemd 
+## lkrg-systemd
 
 **Package:** lkrg-systemd
 
@@ -4036,7 +4036,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## mediawiki-shell 
+## mediawiki-shell
 
 **Package:** mediawiki-shell
 
@@ -4079,7 +4079,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## msgcollector 
+## msgcollector
 
 **Package:** msgcollector
 
@@ -4133,7 +4133,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## msgcollector-gui 
+## msgcollector-gui
 
 **Package:** msgcollector-gui
 
@@ -4187,7 +4187,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## non-qubes-audio 
+## non-qubes-audio
 
 **Package:** non-qubes-audio
 
@@ -4234,7 +4234,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## non-qubes-vm-enhancements-cli 
+## non-qubes-vm-enhancements-cli
 
 **Package:** non-qubes-vm-enhancements-cli
 
@@ -4280,7 +4280,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## non-qubes-vm-enhancements-gui 
+## non-qubes-vm-enhancements-gui
 
 **Package:** non-qubes-vm-enhancements-gui
 
@@ -4326,7 +4326,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## non-qubes-whonix-gateway-cli 
+## non-qubes-whonix-gateway-cli
 
 **Package:** non-qubes-whonix-gateway-cli
 
@@ -4370,7 +4370,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## non-qubes-whonix-gateway-xfce 
+## non-qubes-whonix-gateway-xfce
 
 **Package:** non-qubes-whonix-gateway-xfce
 
@@ -4418,7 +4418,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## non-qubes-whonix-workstation-cli 
+## non-qubes-whonix-workstation-cli
 
 **Package:** non-qubes-whonix-workstation-cli
 
@@ -4462,7 +4462,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## non-qubes-whonix-workstation-xfce 
+## non-qubes-whonix-workstation-xfce
 
 **Package:** non-qubes-whonix-workstation-xfce
 
@@ -4510,7 +4510,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## onion-grater 
+## onion-grater
 
 **Package:** onion-grater
 
@@ -4571,7 +4571,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## open-link-confirmation 
+## open-link-confirmation
 
 **Package:** open-link-confirmation
 
@@ -4625,7 +4625,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## orca-screen-reader-support 
+## orca-screen-reader-support
 
 **Package:** orca-screen-reader-support
 
@@ -4669,7 +4669,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## qubes-whonix 
+## qubes-whonix
 
 **Package:** qubes-whonix
 
@@ -4717,7 +4717,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## qubes-whonix-gateway 
+## qubes-whonix-gateway
 
 **Package:** qubes-whonix-gateway
 
@@ -4765,7 +4765,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## qubes-whonix-gateway-packages-recommended 
+## qubes-whonix-gateway-packages-recommended
 
 **Package:** qubes-whonix-gateway-packages-recommended
 
@@ -4809,7 +4809,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## qubes-whonix-shared-packages-recommended 
+## qubes-whonix-shared-packages-recommended
 
 **Package:** qubes-whonix-shared-packages-recommended
 
@@ -4853,7 +4853,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## qubes-whonix-workstation 
+## qubes-whonix-workstation
 
 **Package:** qubes-whonix-workstation
 
@@ -4901,7 +4901,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## qubes-whonix-workstation-packages-recommended 
+## qubes-whonix-workstation-packages-recommended
 
 **Package:** qubes-whonix-workstation-packages-recommended
 
@@ -4945,7 +4945,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## rads 
+## rads
 
 **Package:** rads
 
@@ -4999,7 +4999,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## ram-wipe 
+## ram-wipe
 
 **Package:** ram-wipe
 
@@ -5042,7 +5042,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## repository-dist 
+## repository-dist
 
 **Package:** repository-dist
 
@@ -5096,7 +5096,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## repository-dist-wizard 
+## repository-dist-wizard
 
 **Package:** repository-dist-wizard
 
@@ -5141,7 +5141,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## ro-mode-init 
+## ro-mode-init
 
 **Package:** ro-mode-init
 
@@ -5185,7 +5185,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## sandbox-app-launcher 
+## sandbox-app-launcher
 
 **Package:** sandbox-app-launcher
 
@@ -5249,7 +5249,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## sdwdate 
+## sdwdate
 
 **Package:** sdwdate
 
@@ -5301,7 +5301,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## sdwdate-gui 
+## sdwdate-gui
 
 **Package:** sdwdate-gui
 
@@ -5344,7 +5344,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## security-misc 
+## security-misc
 
 **Package:** security-misc
 
@@ -5392,7 +5392,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## serial-console-enable 
+## serial-console-enable
 
 **Package:** serial-console-enable
 
@@ -5449,7 +5449,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## setup-dist 
+## setup-dist
 
 **Package:** setup-dist
 
@@ -5497,7 +5497,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## setup-wizard-dist 
+## setup-wizard-dist
 
 **Package:** setup-wizard-dist
 
@@ -5545,7 +5545,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## swap-file-creator 
+## swap-file-creator
 
 **Package:** swap-file-creator
 
@@ -5593,7 +5593,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## systemcheck 
+## systemcheck
 
 **Package:** systemcheck
 
@@ -5638,7 +5638,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## tb-default-browser 
+## tb-default-browser
 
 **Package:** tb-default-browser
 
@@ -5697,7 +5697,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## tb-starter 
+## tb-starter
 
 **Package:** tb-starter
 
@@ -5773,7 +5773,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## tb-updater 
+## tb-updater
 
 **Package:** tb-updater
 
@@ -5859,7 +5859,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## timesanitycheck 
+## timesanitycheck
 
 **Package:** timesanitycheck
 
@@ -5907,7 +5907,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## tor-control-panel 
+## tor-control-panel
 
 **Package:** tor-control-panel
 
@@ -5954,7 +5954,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## tor-ctrl 
+## tor-ctrl
 
 **Package:** tor-ctrl
 
@@ -6003,7 +6003,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## tor-geoipdb 
+## tor-geoipdb
 
 **Package:** tor-geoipdb
 
@@ -6054,7 +6054,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## usability-misc 
+## usability-misc
 
 **Package:** usability-misc
 
@@ -6147,7 +6147,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## uwt 
+## uwt
 
 **Package:** uwt
 
@@ -6233,7 +6233,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## vm-config-dist 
+## vm-config-dist
 
 **Package:** vm-config-dist
 
@@ -6316,7 +6316,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## whonix-base-files 
+## whonix-base-files
 
 **Package:** whonix-base-files
 
@@ -6373,7 +6373,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## whonix-firewall 
+## whonix-firewall
 
 **Package:** whonix-firewall
 
@@ -6427,7 +6427,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## whonix-gateway-default-applications-gui 
+## whonix-gateway-default-applications-gui
 
 **Package:** whonix-gateway-default-applications-gui
 
@@ -6471,7 +6471,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## whonix-gateway-packages-dependencies-cli 
+## whonix-gateway-packages-dependencies-cli
 
 **Package:** whonix-gateway-packages-dependencies-cli
 
@@ -6515,7 +6515,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## whonix-gateway-packages-dependencies-pre 
+## whonix-gateway-packages-dependencies-pre
 
 **Package:** whonix-gateway-packages-dependencies-pre
 
@@ -6560,7 +6560,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## whonix-gateway-rpi 
+## whonix-gateway-rpi
 
 **Package:** whonix-gateway-rpi
 
@@ -6604,7 +6604,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## whonix-gateway-shared-packages-shared-meta 
+## whonix-gateway-shared-packages-shared-meta
 
 **Package:** whonix-gateway-shared-packages-shared-meta
 
@@ -6649,7 +6649,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## whonix-gw-network-conf 
+## whonix-gw-network-conf
 
 **Package:** whonix-gw-network-conf
 
@@ -6704,7 +6704,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## whonix-host-xfce-kvm-freedom 
+## whonix-host-xfce-kvm-freedom
 
 **Package:** whonix-host-xfce-kvm-freedom
 
@@ -6747,7 +6747,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## whonix-shared-default-applications-gui 
+## whonix-shared-default-applications-gui
 
 **Package:** whonix-shared-default-applications-gui
 
@@ -6792,7 +6792,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## whonix-shared-packages-dependencies-cli 
+## whonix-shared-packages-dependencies-cli
 
 **Package:** whonix-shared-packages-dependencies-cli
 
@@ -6836,7 +6836,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## whonix-shared-packages-recommended-cli 
+## whonix-shared-packages-recommended-cli
 
 **Package:** whonix-shared-packages-recommended-cli
 
@@ -6880,7 +6880,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## whonix-welcome-page 
+## whonix-welcome-page
 
 **Package:** whonix-welcome-page
 
@@ -6925,7 +6925,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## whonix-workstation-packages-dependencies-cli 
+## whonix-workstation-packages-dependencies-cli
 
 **Package:** whonix-workstation-packages-dependencies-cli
 
@@ -6969,7 +6969,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## whonix-workstation-packages-dependencies-pre 
+## whonix-workstation-packages-dependencies-pre
 
 **Package:** whonix-workstation-packages-dependencies-pre
 
@@ -7014,7 +7014,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## whonix-workstation-packages-recommended-cli 
+## whonix-workstation-packages-recommended-cli
 
 **Package:** whonix-workstation-packages-recommended-cli
 
@@ -7059,7 +7059,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## whonix-workstation-packages-recommended-gui 
+## whonix-workstation-packages-recommended-gui
 
 **Package:** whonix-workstation-packages-recommended-gui
 
@@ -7104,7 +7104,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## whonix-workstation-shared-packages-shared-meta 
+## whonix-workstation-shared-packages-shared-meta
 
 **Package:** whonix-workstation-shared-packages-shared-meta
 
@@ -7149,7 +7149,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## whonix-ws-network-conf 
+## whonix-ws-network-conf
 
 **Package:** whonix-ws-network-conf
 

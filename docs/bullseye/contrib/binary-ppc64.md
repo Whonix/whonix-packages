@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-ppc64
-nav_order: 50
+nav_order: 104
 parent: contrib
 grand_parent: bullseye
 ---
@@ -14,7 +14,7 @@ grand_parent: bullseye
 
 
 
-## dummy-contrib 
+## dummy-contrib
 
 **Package:** dummy-contrib
 

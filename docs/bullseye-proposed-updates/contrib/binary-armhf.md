@@ -14,7 +14,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## dummy-contrib 
+## dummy-contrib
 
 **Package:** dummy-contrib
 

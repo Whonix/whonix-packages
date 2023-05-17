@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-mipsel
-nav_order: 100
+nav_order: 40
 parent: contrib
 grand_parent: bullseye-developers
 ---
@@ -14,7 +14,7 @@ grand_parent: bullseye-developers
 
 
 
-## dummy-contrib 
+## dummy-contrib
 
 **Package:** dummy-contrib
 

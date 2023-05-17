@@ -1,7 +1,7 @@
 ---
 layout: default
 title: binary-hurd-amd64
-nav_order: 42
+nav_order: 102
 parent: contrib
 grand_parent: bullseye
 ---
@@ -14,7 +14,7 @@ grand_parent: bullseye
 
 
 
-## dummy-contrib 
+## dummy-contrib
 
 **Package:** dummy-contrib
 

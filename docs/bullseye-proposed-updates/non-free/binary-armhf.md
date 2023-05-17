@@ -23,7 +23,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## dummy-nonfree 
+## dummy-nonfree
 
 **Package:** dummy-nonfree
 
@@ -71,7 +71,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## firmware-nonfreedom 
+## firmware-nonfreedom
 
 **Package:** firmware-nonfreedom
 
@@ -117,7 +117,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## virtualbox-guest-additions-iso 
+## virtualbox-guest-additions-iso
 
 **Package:** virtualbox-guest-additions-iso
 
@@ -164,7 +164,7 @@ grand_parent: bullseye-proposed-updates
 
 
 
-## whonix-host-xfce-kvm-nonfreedom 
+## whonix-host-xfce-kvm-nonfreedom
 
 **Package:** whonix-host-xfce-kvm-nonfreedom
 
